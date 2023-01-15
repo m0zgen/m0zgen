@@ -13,13 +13,13 @@ InfoSec Analyst; IT/IS Awareness & Knowledge Sharing Evangelist; Open BLD DNS Se
 🔗  &nbsp;**Connections**
 <p align="left">
 <a href="https://www.linkedin.com/in/yevgeniy-goncharov/" target="blank">
-    <img align="center" src="res/linkedin.svg" alt="m0zgen" height="30" width="40" />
+    <img align="center" src="res/linkedin.svg" alt="m0zgen" height="24" width="40" />
 </a>
 <!-- <a href="https://stackoverflow.com/users/1928123/m0zgen" target="blank">
     <img align="center" src="res/stackoverflow.svg" alt="user:1928123" height="30" width="40" />
 </a> -->
 <a href="https://t.me/sysadm_in_channel" target="blank">
-    <img align="center" src="res/telegram.gif" alt="Sys-Admin & InfoSec Channel" height="30" />
+    <img align="center" src="res/telegram.gif" alt="Sys-Admin & InfoSec Channel" height="24" />
 </a>
 </p>
 
