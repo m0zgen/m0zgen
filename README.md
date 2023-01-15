@@ -1,14 +1,12 @@
-### Hi there 👋. Whoami 🏂
+<!-- ### Hi there 👋. Whoami 🏂 -->
 
 InfoSec Analyst; IT/IS Awareness & Knowledge Sharing Evangelist; Open BLD DNS Service Founder; DevSec & Programmer and more...
 
-🌱  &nbsp;**Projects**
+* &nbsp;**Projects**: 
+[Open BLD DNS](https://lab.sys-adm.in/); [Open SysConf](https://sysconf.io/); [System Checker Script](https://system-checks.org/); [CWiCCS](https://cwiccs.sys-adm.in/)...
 
-✨ [Open BLD DNS](https://lab.sys-adm.in/) ✨ [Open SysConf](https://sysconf.io/) ✨ [System Checker Script](https://system-checks.org/) ✨ [CWiCCS](https://cwiccs.sys-adm.in/)...
-
-🤝  &nbsp;**Publics**
-
-📯 [Sys-Admin & InfoSec Channel](https://t.me/sysadm_in_channel) 📯 [Sys-Admin Up](https://t.me/sysadm_in_up) 📯 [Sys-Admin Forum](https://forum.sys-adm.in/) 📯 [Sys-Admin Help](https://t.me/sysadm_in)
+* &nbsp;**Publics**:
+[Sys-Admin & InfoSec Channel](https://t.me/sysadm_in_channel); [Sys-Admin Up](https://t.me/sysadm_in_up); [Sys-Admin Forum](https://forum.sys-adm.in/); [Sys-Admin Help](https://t.me/sysadm_in)...
 
 🔗  &nbsp;**Connections**
 <p align="left">
