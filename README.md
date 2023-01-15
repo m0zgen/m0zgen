@@ -4,7 +4,7 @@ InfoSec Analyst; IT/IS Awareness & Knowledge Sharing Evangelist; Open BLD DNS Se
 
 🌱  &nbsp;**Projects**
 
-[Open BLD DNS](https://lab.sys-adm.in/); [Open SysConf](https://sysconf.io/); [System Checker Script](https://system-checks.org/); [CWiCCS](https://cwiccs.sys-adm.in/)...
+✨ [Open BLD DNS](https://lab.sys-adm.in/) ✨ [Open SysConf](https://sysconf.io/) ✨ [System Checker Script](https://system-checks.org/) ✨ [CWiCCS](https://cwiccs.sys-adm.in/)...
 
 🧘  &nbsp;**Publics**
 * [Sys-Admin & InfoSec Channel](https://t.me/sysadm_in_channel)
