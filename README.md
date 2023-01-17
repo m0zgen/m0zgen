@@ -1,7 +1,7 @@
-### Hi there <a href="https://lab.sys-adm.in/" target="blank"><img align="center" src="res/hi-hand.gif" alt="Sys-Admin & InfoSec Channel" height="24" /></a>
+<!-- ### Hi there <a href="https://lab.sys-adm.in/" target="blank"><img align="center" src="res/hi-hand.gif" alt="Sys-Admin & InfoSec Channel" height="24" /></a>
 
 * 🏂 **Whoami**: 
-InfoSec Analyst; IT/IS Awareness & Knowledge Sharing Evangelist; Open BLD DNS Service Founder; DevSec & Programmer and more...
+InfoSec Analyst; IT/IS Awareness & Knowledge Sharing Evangelist; Open BLD DNS Service Founder; DevSec & Programmer and more... -->
 
 * 🚜 **Projects**: 
 [Open BLD DNS](https://lab.sys-adm.in/); [Open SysConf](https://sysconf.io/); [System Checker Script](https://system-checks.org/); [CWiCCS](https://cwiccs.sys-adm.in/)...
