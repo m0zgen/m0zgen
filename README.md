@@ -3,10 +3,10 @@
 * 🏂 **Whoami**: 
 I am Groot 
 
-* 🚜 **Projects**: 
+* 🚜 **My Projects**: 
 [Open BLD DNS](https://lab.sys-adm.in/); [Open SysConf](https://sysconf.io/); [System Checker Script](https://system-checks.org/); [CWiCCS](https://cwiccs.sys-adm.in/)...
 
-* 🧘 **Publics**:
+* 🧘 **My Publics**:
 [Sys-Admin & InfoSec Channel](https://t.me/sysadm_in_channel); [Sys-Admin Up](https://t.me/sysadm_in_up); [Sys-Admin Forum](https://forum.sys-adm.in/); [Sys-Admin Help](https://t.me/sysadm_in)...
 
 <!-- * <a href="https://www.linkedin.com/in/yevgeniy-goncharov/" target="blank"><img align="center" src="res/linkedin.svg" alt="m0zgen" height="18" /></a> <a href="https://stackoverflow.com/users/1928123/m0zgen" target="blank"><img align="center" src="res/stackoverflow.svg" alt="user:1928123" height="18" /></a> <a href="https://t.me/sysadm_in_channel" target="blank"><img align="center" src="res/telegram.gif" alt="Sys-Admin & InfoSec Channel" height="18" /></a> -->
