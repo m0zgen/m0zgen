@@ -9,7 +9,7 @@ I am Groot
 * 🧘 **My Publics**:
 [Sys-Admin & InfoSec Channel](https://t.me/sysadm_in_channel); [Sys-Admin Up](https://t.me/sysadm_in_up); [Sys-Admin Forum](https://forum.sys-adm.in/); [Sys-Admin Help](https://t.me/sysadm_in)...
 
-<img src="https://github-readme-stats.vercel.app/api?username=m0zgen&show_icons=true&theme=monokai" alt="Github statistics" align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=m0zgen&show_icons=true&theme=vue-dark" alt="Github statistics" align="left">
 
 <!-- * <a href="https://www.linkedin.com/in/yevgeniy-goncharov/" target="blank"><img align="center" src="res/linkedin.svg" alt="m0zgen" height="18" /></a> <a href="https://stackoverflow.com/users/1928123/m0zgen" target="blank"><img align="center" src="res/stackoverflow.svg" alt="user:1928123" height="18" /></a> <a href="https://t.me/sysadm_in_channel" target="blank"><img align="center" src="res/telegram.gif" alt="Sys-Admin & InfoSec Channel" height="18" /></a> -->
 
