@@ -1,4 +1,4 @@
-### Hi there <a href="https://lab.sys-adm.in/" target="blank"><img align="center" src="res/hi-hand.gif" alt="Sys-Admin & InfoSec Channel" height="24" /></a>
+### Hi there ,<!--<a href="https://lab.sys-adm.in/" target="blank"><img align="center" src="res/hi-hand.gif" alt="Sys-Admin & InfoSec Channel" height="24" /></a>-->
 
 * 🏂 **Whoami**: 
 I am Groot 
