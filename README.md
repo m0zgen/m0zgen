@@ -1,12 +1,13 @@
 ### Hi there ,<!--<a href="https://lab.sys-adm.in/" target="blank"><img align="center" src="res/hi-hand.gif" alt="Sys-Admin & InfoSec Channel" height="24" /></a>-->
 
 * 🏂 **Whoami**: 
+<!--
 I am Groot 
-
-* 🚜 **My Projects**: 
+-->
+* 🚜 **My Open Projects**: 
 [Open BLD DNS](https://lab.sys-adm.in/); [Open SysConf](https://sysconf.io/); [System Checker Script](https://system-checks.org/); [Cactusd](https://github.com/m0zgen/cactusd); [ip2drop](https://github.com/m0zgen/ip2drop); [CWiCCS](https://cwiccs.sys-adm.in/)...
 
-* 🧘 **My Publics**:
+* 🧘 **InfoSec and more**:
 [Sys-Admin & InfoSec Channel](https://t.me/sysadm_in_channel); [Sys-Admin Up](https://t.me/sysadm_in_up); [Sys-Admin Forum](https://forum.sys-adm.in/); [Sys-Admin Help](https://t.me/sysadm_in)...
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=m0zgen&show_icons=true&theme=vue-dark" alt="Github statistics" align="left"> -->
