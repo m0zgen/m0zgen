@@ -3,11 +3,19 @@
 <!--* 🏂 **Whoami**: 
 I am Groot 
 -->
-#### 🚜 My Open Projects 
-[OpenBLD.net DoH/DoT DNS](https://openbld.net/); [Open SysConf.io Conference](https://sysconf.io/); [System Checker Bash Script](https://system-checks.org/); [Cactusd](https://github.com/m0zgen/cactusd); [ip2drop](https://github.com/m0zgen/ip2drop); [CWiCCS](https://cwiccs.sys-adm.in/)...
+#### 🚜 Opened Projects 
+- [x] [OpenBLD.net DoH/DoT DNS](https://openbld.net/)
+- [x] [Open SysConf.io Conference](https://sysconf.io/)
+- [x] [System Checker Bash Script](https://system-checks.org/)
+- [x] [Cactusd](https://github.com/m0zgen/cactusd)
+- [x] [ip2drop](https://github.com/m0zgen/ip2drop)
+- [x] [CWiCCS](https://cwiccs.sys-adm.in/)...
 
 #### 🧘 Publics
-[Sys-Admin InfoSec](https://t.me/sysadm_in_channel); [Sys-Admin Up](https://t.me/sysadm_in_up); [Sys-Admin Forum](https://forum.sys-adm.in/); [Sys-Admin Help](https://t.me/sysadm_in)...
+- [x] [Sys-Admin InfoSec](https://t.me/sysadm_in_channel)
+- [x] [Sys-Admin Up](https://t.me/sysadm_in_up)
+- [x] [Sys-Admin Forum](https://forum.sys-adm.in/)
+- [x] [Sys-Admin Help](https://t.me/sysadm_in)...
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=m0zgen&show_icons=true&theme=vue-dark" alt="Github statistics" align="left"> -->
 
