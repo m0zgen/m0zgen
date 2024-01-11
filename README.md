@@ -10,10 +10,11 @@ I am Groot
 - Social channels: [InfoSec](https://t.me/sysadm_in_channel), [Up](https://t.me/sysadm_in_up), [Forum](https://forum.sys-adm.in/), [Help](https://t.me/sysadm_in), [Job](https://t.me/sysadm_in_job)...
 
 
-### 📕 Latest [Docs](https://openbld.net/docs/intro/) Posts
+### 📕 [OpenBLD.net](https://openbld.net/) How to's
 - [x] How to [Donate and Contribute](https://openbld.net/docs/donation/) to OpenBLD.net project?
 - [x] How to [setup](https://openbld.net/docs/get-started/where-to-start/) OpenBLD.net DNS service on your devices?
 - [x] How it [works](https://openbld.net/docs/overwiew/how-it-works/)?
+- [x] How to get OpenBLD.net Plus [Benefits](https://openbld.net/docs/overwiew/openbld-plus/)
 - [x] [Contacts](https://openbld.net/docs/contacts/)
 
 
