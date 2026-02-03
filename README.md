@@ -13,7 +13,6 @@ I am Groot
 ### 📕 [OpenBLD.net](https://openbld.net/) How to's
 - [x] How to [Donate and Contribute](https://openbld.net/docs/donation/) to OpenBLD.net project
 - [x] How to [setup](https://openbld.net/docs/get-started/where-to-start/) OpenBLD.net DNS service on your devices
-- [x] How to get OpenBLD.net Plus [Benefits](https://openbld.net/docs/overwiew/openbld-plus/) from cooperating and donating
 - [x] How it [works](https://openbld.net/docs/overwiew/how-it-works/)
 - [x] [Contacts](https://openbld.net/docs/contacts/)
 
