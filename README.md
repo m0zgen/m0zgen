@@ -7,7 +7,7 @@ I am Groot
 - Free DoH/DoT DNS: [OpenBLD.net ](https://openbld.net/)
 - Open Dev(Sec)Ops Conference: [Open SysConf.io](https://sysconf.io/)
 - Tools: [System Checks](https://system-checks.org/), [Cactusd](https://github.com/m0zgen/cactusd), [ip2drop](https://github.com/m0zgen/ip2drop), [CWiCCS](https://cwiccs.sys-adm.in/) and [more](https://github.com/m0zgen?tab=repositories)
-- Social channels: [InfoSec](https://t.me/sysadm_in_channel), [Up](https://t.me/sysadm_in_up), [Help](https://t.me/sysadm_in), [Job](https://t.me/sysadm_in_job)...
+- Social channels: [InfoSec](https://t.me/sysadm_in_channel), [Up](https://t.me/sysadm_in_up), [Help](https://t.me/sysadm_in), [Job](https://t.me/sysadm_in_job).
 
 
 ### 📕 [OpenBLD.net](https://openbld.net/) How to's
